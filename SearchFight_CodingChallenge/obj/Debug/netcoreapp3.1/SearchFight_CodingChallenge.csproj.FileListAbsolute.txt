@@ -1,0 +1,13 @@
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\bin\Debug\netcoreapp3.1\SearchFight_CodingChallenge.exe
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\bin\Debug\netcoreapp3.1\SearchFight_CodingChallenge.deps.json
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\bin\Debug\netcoreapp3.1\SearchFight_CodingChallenge.runtimeconfig.json
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\bin\Debug\netcoreapp3.1\SearchFight_CodingChallenge.runtimeconfig.dev.json
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\bin\Debug\netcoreapp3.1\SearchFight_CodingChallenge.dll
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\bin\Debug\netcoreapp3.1\SearchFight_CodingChallenge.pdb
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\obj\Debug\netcoreapp3.1\SearchFight_CodingChallenge.csprojAssemblyReference.cache
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\obj\Debug\netcoreapp3.1\SearchFight_CodingChallenge.AssemblyInfoInputs.cache
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\obj\Debug\netcoreapp3.1\SearchFight_CodingChallenge.AssemblyInfo.cs
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\obj\Debug\netcoreapp3.1\SearchFight_CodingChallenge.csproj.CoreCompileInputs.cache
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\obj\Debug\netcoreapp3.1\SearchFight_CodingChallenge.dll
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\obj\Debug\netcoreapp3.1\SearchFight_CodingChallenge.pdb
+D:\Proyectos\NetCore\SearchFight_CodingChallenge\SearchFight_CodingChallenge\obj\Debug\netcoreapp3.1\SearchFight_CodingChallenge.genruntimeconfig.cache
