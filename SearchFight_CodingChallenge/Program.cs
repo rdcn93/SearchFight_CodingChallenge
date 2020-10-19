@@ -19,10 +19,8 @@ namespace SearchFight_CodingChallenge
 
             if (args == null || args.Length == 0)
             {
-                words.Add(searchService.SearchWord(".net"));
-                words.Add(searchService.SearchWord("java"));
-                
-                Console.WriteLine("No parameters were found");                
+                Console.WriteLine("No parameters were found");
+                CloseApp();
             }
             else
             {
@@ -40,9 +38,17 @@ namespace SearchFight_CodingChallenge
             Console.WriteLine($"Google Winner     : {words.OrderByDescending(x => x.googleResults).FirstOrDefault().name}");
             Console.WriteLine($"MSN Search winner : {words.OrderByDescending(x => x.bingResults).FirstOrDefault().name}");
             Console.WriteLine($"Total Winner      : {words.OrderByDescending(x => x.total).FirstOrDefault().name}");
-
-            Console.ReadKey();
             #endregion Print Results
+
+            CloseApp();
+        }
+
+        public static void CloseApp()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Press any key to close...");
+            Console.ReadKey();
+            Environment.Exit(0);
         }
     }
 }

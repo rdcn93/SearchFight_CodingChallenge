@@ -42,11 +42,11 @@ namespace SearchFight_CodingChallenge.Services
             int total = 0;
 
             string bingWebSearchApiKeyUrl = ConfigurationManager.AppSettings[Constants.BING_API_URL];
-            string bingWebSearchApiKey1 = ConfigurationManager.AppSettings[Constants.BING_SEARCH_KEY];
+            string bingWebSearchApiKey = ConfigurationManager.AppSettings[Constants.BING_SEARCH_KEY];
             string bingWebSearchApiKeyHeaderName = ConfigurationManager.AppSettings[Constants.BING_SEARCH_KEY_HEADER_NAME];
 
             var webRequest = WebRequest.Create(string.Format(bingWebSearchApiKeyUrl, word));
-            webRequest.Headers[bingWebSearchApiKeyHeaderName] = bingWebSearchApiKey1;
+            webRequest.Headers[bingWebSearchApiKeyHeaderName] = bingWebSearchApiKey;
 
             using (var httpWebResponse = (HttpWebResponse)webRequest.GetResponse())
             {

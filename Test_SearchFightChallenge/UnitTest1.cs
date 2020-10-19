@@ -13,6 +13,7 @@ namespace Test_SearchFightChallenge
         public void Test1()
         {
             Assert.Pass();
+
         }
     }
 }
