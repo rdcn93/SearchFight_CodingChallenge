@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchFight_CodingChallenge", "SearchFight_CodingChallenge\SearchFight_CodingChallenge.csproj", "{FC8C3554-A2B4-47ED-A625-E5217BDD8304}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_SearchFightChallenge", "Test_SearchFightChallenge\Test_SearchFightChallenge.csproj", "{D4BBBC8F-CD17-4005-95A8-27219EC342F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC8C3554-A2B4-47ED-A625-E5217BDD8304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC8C3554-A2B4-47ED-A625-E5217BDD8304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC8C3554-A2B4-47ED-A625-E5217BDD8304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BBBC8F-CD17-4005-95A8-27219EC342F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BBBC8F-CD17-4005-95A8-27219EC342F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BBBC8F-CD17-4005-95A8-27219EC342F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BBBC8F-CD17-4005-95A8-27219EC342F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
