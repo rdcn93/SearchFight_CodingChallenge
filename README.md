@@ -25,6 +25,11 @@ To determine the popularity of programming languages on the internet we want to 
 
 
 2. Click to Properties option
+
+
+![alt text](https://i.ibb.co/rvRsyq6/2020-10-19-07-46-14.png)
+
+
 3. Click to Debug
 
 
@@ -32,4 +37,14 @@ To determine the popularity of programming languages on the internet we want to 
 
 
 4. Add arguments to Command Line Arguments textbox
+
+![alt text](https://i.ibb.co/HTKMVVF/2020-10-19-07-43-57.png)
+
+
 5. Click in Run button
+
+![alt text](https://i.ibb.co/R4pJtKR/2020-10-19-07-45-05.png)
+
+### Console App Result
+
+![alt text](https://i.ibb.co/Ws7FDy0/2020-10-19-07-47-53.png)
