@@ -18,12 +18,18 @@ To determine the popularity of programming languages on the internet we want to 
 
 ### Test from Visual Studio
 
-1. Right click to the Project "SearchFight_CodingChallenge
+1. Right click to the Project "SearchFight_CodingChallenge"
+
+
+![alt text](https://i.ibb.co/ZGTszL1/2020-10-19-07-38-40.png)
+
+
 2. Click to Properties option
 3. Click to Debug
 
 
 ![alt text](https://i.ibb.co/gwr2mwB/2020-10-19-07-32-53.png)
+
 
 4. Add arguments to Command Line Arguments textbox
 5. Click in Run button
