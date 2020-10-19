@@ -48,3 +48,12 @@ To determine the popularity of programming languages on the internet we want to 
 ### Console App Result
 
 ![alt text](https://i.ibb.co/Ws7FDy0/2020-10-19-07-47-53.png)
+
+
+### References
+* https://developers.google.com/custom-search/v1/using_rest
+* https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key
+* https://developers.google.com/custom-search/v1/reference/rest/v1/cse/list
+* https://azure.microsoft.com/en-us/try/cognitive-services/my-apis/?apiSlug=search-api-v7
+* https://docs.microsoft.com/en-us/azure/cognitive-services/bing-custom-search/call-endpoint-csharp
+* https://blogs.bing.com/search-quality-insights/2017-11/Start-exploring-Bing-Search-APIs-in-under-5-minutes
