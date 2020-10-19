@@ -21,6 +21,6 @@ To determine the popularity of programming languages on the internet we want to 
 1. Right click to the Project "SearchFight_CodingChallenge
 2. Click to Properties option
 3. Click to Debug
-![alt text](https://ibb.co/wCdkBCx)
+![alt text](https://i.ibb.co/gwr2mwB/2020-10-19-07-32-53.png)
 4. Add arguments to Command Line Arguments textbox
 5. Click in Run button
